@@ -1,8 +1,9 @@
 # DeepShipNet: Exploring neural network architectures for locating ships in images
 
-##### Note: This repo is my fork branch of our team project, the original repo is [HERE](https://github.com/jsiddhant/ECE285-DeepShipNet).
+##### :point_right: Note: This repo is my fork branch of our team project, the original repo is [HERE](https://github.com/jsiddhant/ECE285-DeepShipNet). :exclamation::exclamation::exclamation:
 
-This code is part of the final project of the University of California San Diego Fall Semester 2018 course *Machine Learning for Image Processing*. During the project, the team participated in the Kaggle Competition *Airbus Ship Detection*[1] using the same code.  
+This code is part of the final project of the University of California San Diego Fall Semester 2018 course *Machine Learning for Image Processing*. During the project, the team participated in the Kaggle Competition *Airbus Ship Detection*[1] using the same code.
+
 Read the following instructions if you would like to run the code yourself.
 
 ### Executable Files
